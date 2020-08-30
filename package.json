@@ -1,0 +1,11 @@
+{
+  "name": "antidollar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DenisGorbachev/antidollar.git",
+  "author": "Denis Gorbachev <denis.d.gorbachev@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  }
+}
